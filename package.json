@@ -2,8 +2,8 @@
   "name": "php-files",
   "displayName": "PHP Files",
   "description": "IDE-like PHP files creation.",
-  "version": "0.0.5",
-  "publisher": "sevavietl",
+  "version": "0.0.6",
+  "publisher": "MihailUrakov",
   "engines": {
     "vscode": "^1.19.0"
   },
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Sevavietl/vscode-php-files.git"
+    "url": "https://github.com/mikbox74/vscode-php-files.git"
   },
   "categories": [
     "Other"

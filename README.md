@@ -1,8 +1,10 @@
 # PHP Files
 
+The creator and first maintainer of this project is [Vsevolod Vietluzhskykh](https://github.com/Sevavietl)
+
 Extension that adds naive IDE-like file creation.
 
-**!IMPORTANT!** For now tested only under *nix. 
+**!IMPORTANT!** For now tested only under *nix and Windows 7. 
 
 ## A Story Behind
 
