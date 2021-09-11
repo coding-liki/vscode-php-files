@@ -19,7 +19,7 @@ export default abstract class Entity {
     }
 
     public save(path) {
-        fs.outputFileSync(path, this.file);
+        fs.outputFileSync(path, this.file.toString());
         
         return this;
     }
